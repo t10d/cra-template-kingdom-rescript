@@ -6,6 +6,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn res:start`
+
+Builds ReScript files and enter watch mode.
+
+You should always be running this alongside `yarn start`.
+
+### `yarn res:build`
+
+Builds ReScript files.
+
+Use this when you want to build ReScript in CI.
+
 ### `yarn start`
 
 Runs the app in the development mode.\
