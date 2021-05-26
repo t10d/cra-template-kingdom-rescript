@@ -1,0 +1,29 @@
+{
+  "name": "@t10d/cra-template-kingdom-rescript",
+  "version": "0.0.1",
+  "description": "The Kingdom template for Create React App and ReScript",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "rescript-react",
+    "rescript"
+  ],
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t10d/cra-template-kingdom-rescript.git",
+    "directory": "cra-template-kingdom-rescript"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/t10d/cra-template-kingdom-rescript/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
