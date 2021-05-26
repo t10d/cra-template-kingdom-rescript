@@ -1,5 +1,5 @@
 {
-  "name": "@t10d/cra-template-kingdom-rescript",
+  "name": "cra-template-kingdom-rescript",
   "version": "0.0.1",
   "description": "The Kingdom template for Create React App and ReScript",
   "keywords": [
